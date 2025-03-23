@@ -7,30 +7,30 @@
 
 export const siteConfig = {
   // Website information
-  name: "Raol Mukarrozi",
-  title: "Raol Mukarrozi - Personal Portfolio",
+  name: "Xluzz Keizu",
+  title: "Xluzz Keizuu - Personal Portfolio",
   description: "Tech Enthusiast skilled in HTML, CSS, JavaScript, Tailwind, Node.js, and Laravel",
 
   // Social media links
   social: {
-    github: "https://github.com/latesturl",
+    github: "https://github.com/XluzzKeizu",
     email: "latesturltech@gmail.com",
   },
 
   // Location information
-  location: "Banjarbaru, Indonesia",
+  location: "Tokyo, Japan",
 
   // Professional roles
-  roles: ["Full Stack Developer", "Tech Educator", "Open Source Contributor"],
+  roles: ["Full Stack Developer", "Tech Educator", "Open Source Contributor, Designer Graphic"],
 
   // Typing animation text
-  typingTexts: ["Full-Stack Engineer", "Web Developer", "UI/UX Enthusiast"],
+  typingTexts: ["Designer Graphic", "Web Developer", "UI/UX Enthusiast"],
 
   // Media settings
   media: {
     backgroundMusic: "https://files.catbox.moe/kxu767.mp3",
-    profileImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-profile.jpg",
-    portfolioImage: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/my-portofolio.jpg",
+    profileImage: "https://files.catbox.moe/4vcnel.jpg",
+    portfolioImage: "https://files.catbox.moe/4vcnel.jpg",
   },
 
   // Skills configuration - simplified for easy editing
